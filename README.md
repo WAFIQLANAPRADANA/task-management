@@ -59,7 +59,7 @@ This project demonstrates implementation of:
 
 ```bash
 git clone https://github.com/WAFIQLANAPRADANA/task-management.git
-
+```
 ---
 
 ## 👨‍💻 Author
