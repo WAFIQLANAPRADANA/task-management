@@ -19,7 +19,6 @@
 </p>
 
 ---
-
 ## 📌 About This Project
 
 Task Management System is a web-based application built using Laravel.  
@@ -35,7 +34,6 @@ This project demonstrates implementation of:
 - Bootstrap UI Integration
 
 ---
-
 ## 🚀 Features
 
 - Create new tasks
@@ -46,7 +44,6 @@ This project demonstrates implementation of:
 - Clean user interface
 
 ---
-
 ## 🛠 Tech Stack
 
 - **Backend:** Laravel
@@ -56,10 +53,19 @@ This project demonstrates implementation of:
 - **Version Control:** Git & GitHub
 
 ---
-
 ## ⚙️ Installation
 
 ### 1️⃣ Clone Repository
 
 ```bash
 git clone https://github.com/WAFIQLANAPRADANA/task-management.git
+
+---
+
+## 👨‍💻 Author
+
+**Wafiq Lana**  
+IT Supervisor & Network Infrastructure Engineer  
+
+- GitHub: https://github.com/WAFIQLANAPRADANA  
+- Email: wafiqlanapradana.com  
